@@ -1,5 +1,5 @@
 ---
-title: "My E-Portfolio"
+title: "Home"
 image: images/epotimage.png
 about:
   template: trestles
